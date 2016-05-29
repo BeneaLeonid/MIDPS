@@ -1,0 +1,8 @@
+.background {
+	position:relative;
+	margin:7px 0 0;
+	background:url(../images/bg-body.jpg);
+	z-index:0;
+}
+
+images/utm.png {width: 100px; height: 100px;}
