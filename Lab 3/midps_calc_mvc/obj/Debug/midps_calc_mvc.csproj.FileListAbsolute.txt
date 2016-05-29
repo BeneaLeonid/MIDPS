@@ -1,0 +1,10 @@
+D:\Univer\MIDPS\midps-master\Lab#3\midps_calc_mvc\midps_calc_mvc\bin\Debug\midps_calc_mvc.exe.config
+D:\Univer\MIDPS\midps-master\Lab#3\midps_calc_mvc\midps_calc_mvc\bin\Debug\midps_calc_mvc.exe
+D:\Univer\MIDPS\midps-master\Lab#3\midps_calc_mvc\midps_calc_mvc\bin\Debug\midps_calc_mvc.pdb
+D:\Univer\MIDPS\midps-master\Lab#3\midps_calc_mvc\midps_calc_mvc\obj\Debug\midps_calc_mvc.csprojResolveAssemblyReference.cache
+D:\Univer\MIDPS\midps-master\Lab#3\midps_calc_mvc\midps_calc_mvc\obj\Debug\midps_calc_mvc.Controller.resources
+D:\Univer\MIDPS\midps-master\Lab#3\midps_calc_mvc\midps_calc_mvc\obj\Debug\midps_calc_mvc.Properties.Resources.resources
+D:\Univer\MIDPS\midps-master\Lab#3\midps_calc_mvc\midps_calc_mvc\obj\Debug\midps_calc_mvc.View.resources
+D:\Univer\MIDPS\midps-master\Lab#3\midps_calc_mvc\midps_calc_mvc\obj\Debug\midps_calc_mvc.csproj.GenerateResource.Cache
+D:\Univer\MIDPS\midps-master\Lab#3\midps_calc_mvc\midps_calc_mvc\obj\Debug\midps_calc_mvc.exe
+D:\Univer\MIDPS\midps-master\Lab#3\midps_calc_mvc\midps_calc_mvc\obj\Debug\midps_calc_mvc.pdb
