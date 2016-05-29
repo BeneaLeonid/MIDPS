@@ -1,0 +1,3 @@
+F:\MIDPS\Lab 3\midps_calc_mvc\bin\Debug\midps_calc_mvc.exe.config
+F:\MIDPS\Lab 3\midps_calc_mvc\obj\Debug\midps_calc_mvc.exe
+F:\MIDPS\Lab 3\midps_calc_mvc\obj\Debug\midps_calc_mvc.pdb
