@@ -3,7 +3,7 @@
 #include <vcl.h>
 #pragma hdrstop
 //---------------------------------------------------------------------------
-USEFORM("F:\MIDPS\Lab 1\lab1b\Unit1.cpp", Form1);
+USEFORM("F:\MIDPS\Lab 1\lab1b\Project2.cpp", Form1);
 //---------------------------------------------------------------------------
 WINAPI WinMain(HINSTANCE, HINSTANCE, LPSTR, int)
 {
