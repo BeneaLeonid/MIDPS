@@ -8,3 +8,6 @@ D:\Univer\MIDPS\midps-master\Lab#3\midps_calc_mvc\midps_calc_mvc\obj\Debug\midps
 D:\Univer\MIDPS\midps-master\Lab#3\midps_calc_mvc\midps_calc_mvc\obj\Debug\midps_calc_mvc.csproj.GenerateResource.Cache
 D:\Univer\MIDPS\midps-master\Lab#3\midps_calc_mvc\midps_calc_mvc\obj\Debug\midps_calc_mvc.exe
 D:\Univer\MIDPS\midps-master\Lab#3\midps_calc_mvc\midps_calc_mvc\obj\Debug\midps_calc_mvc.pdb
+F:\MIDPS\Lab 3\midps_calc_mvc\bin\Debug\midps_calc_mvc.exe.config
+F:\MIDPS\Lab 3\midps_calc_mvc\obj\Debug\midps_calc_mvc.exe
+F:\MIDPS\Lab 3\midps_calc_mvc\obj\Debug\midps_calc_mvc.pdb
