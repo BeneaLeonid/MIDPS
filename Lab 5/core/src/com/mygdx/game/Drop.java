@@ -4,8 +4,7 @@ import com.badlogic.gdx.Game;
 import com.badlogic.gdx.graphics.g2d.BitmapFont;
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 
-/**
- * Created by Leonid on 29.05.2016.
+/* Created by Leonid on 29.05.2016.
  */
 public class Drop extends Game {
 
